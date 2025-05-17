@@ -513,12 +513,12 @@ li {
   .media-buttons {
     display: flex;
     justify-content: center;
-    gap: 5px;
+    gap: 15px;
     margin-top: 1rem;
   }
   
   .media-btn {
-    width: 90px;
+    width: 110px;
     max-width: 260px;
     font-size: 1rem;
     background-color: #9e5353;
