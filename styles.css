@@ -462,6 +462,10 @@ li {
     font-size: 1rem;
   }
 
+  .hide-on-mobile {
+    display: none !important;
+  }
+
   .gallery h2,
   .offer h2,
   .media h2,
