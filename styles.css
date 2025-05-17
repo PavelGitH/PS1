@@ -510,10 +510,25 @@ li {
     max-width: 280px;
   }
 
+  .media-buttons {
+    display: flex;
+    justify-content: center;
+    gap: 5px;
+    margin-top: 1rem;
+  }
+  
   .media-btn {
     width: 100%;
     max-width: 260px;
     font-size: 1rem;
+    background-color: #9e5353;
+    color: #fff;
+    padding: 12px 20px;
+    text-decoration: none;
+    border-radius: 8px;
+    font-weight: bold;
+    text-transform: uppercase;
+    transition: background-color 0.3s ease;
   }
 
   ul {
