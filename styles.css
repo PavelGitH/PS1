@@ -461,6 +461,10 @@ li {
   .text-and-image p {
     font-size: 1rem;
   }
+  
+  .text-and-image .text-container {
+    width: 100%;
+  }
 
   .hide-on-mobile {
     display: none !important;
