@@ -419,6 +419,101 @@ li {
     color: #ff4d4d;
   }
   
-  
+  @media (max-width: 768px) {
+  .hero {
+    justify-content: center;
+    padding-left: 0;
+    text-align: center;
+  }
+
+  .hero-text {
+    padding-left: 0;
+    padding: 1rem;
+  }
+
+  .hero h1 {
+    font-size: 1.8rem;
+  }
+
+  .hero h2 {
+    font-size: 1.2rem;
+  }
+
+  .motto {
+    font-size: 1rem;
+    margin-top: 1.5rem;
+    padding-right: 0;
+  }
+
+  .label {
+    font-size: 1.5rem;
+  }
+
+  .block {
+    font-size: 1.1rem;
+  }
+
+  .text-and-image h2 {
+    font-size: 1.4rem;
+  }
+
+  .text-and-image p {
+    font-size: 1rem;
+  }
+
+  .gallery h2,
+  .offer h2,
+  .media h2,
+  .kontakt h2 {
+    font-size: 1.6rem;
+  }
+
+  .gallery p,
+  .offer p,
+  .media p,
+  .kontakt-opis {
+    font-size: 1rem;
+  }
+
+  .offer li {
+    font-size: 1.1rem;
+  }
+
+  .contact-block .btn {
+    font-size: 1rem;
+    padding: 12px 24px;
+  }
+
+  .kontakt-label {
+    font-size: 1.2rem;
+  }
+
+  .kontakt-link {
+    font-size: 1.3rem;
+  }
+
+  .kontakt-box {
+    min-width: 90%;
+  }
+
+  .gallery-img {
+    width: 100%;
+    max-width: 280px;
+  }
+
+  .media-btn {
+    width: 100%;
+    max-width: 260px;
+    font-size: 1rem;
+  }
+
+  ul {
+    font-size: 1rem;
+  }
+
+  li {
+    margin-bottom: 8px;
+  }
+}
   
   
